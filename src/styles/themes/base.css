@@ -1,0 +1,12 @@
+/* Base (base) - Auto-generated */
+
+/* Default fallback (Base) */
+:root {
+  --theme-color-action-default: var(--sp-colors-teal-600);
+  --theme-color-action-hover: var(--sp-colors-teal-900);
+}
+
+[data-theme='Base'] {
+  --theme-color-action-default: var(--sp-colors-teal-600);
+  --theme-color-action-hover: var(--sp-colors-teal-900);
+}

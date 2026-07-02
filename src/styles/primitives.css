@@ -1,0 +1,28 @@
+/*
+ * Sample Design Tokens — Primitives
+ * Auto-generated — do not edit manually.
+ */
+
+:root {
+  /* Violet */
+  --sp-colors-violet-100: #ede9fe;
+  --sp-colors-violet-500: #8b5cf6;
+  --sp-colors-violet-900: #4c1d95;
+
+  /* Teal */
+  --sp-colors-teal-100: #ccfbf1;
+  --sp-colors-teal-500: #14b8a6;
+  --sp-colors-teal-600: #0d9488;
+  --sp-colors-teal-900: #134e4a;
+
+  /* Spacing */
+  --sp-spacing-0: 0px;
+  --sp-spacing-1: 4px;
+  --sp-spacing-2: 8px;
+  --sp-spacing-4: 16px;
+
+  /* Border radius */
+  --sp-border-radius-sm: 4px;
+  --sp-border-radius-md: 6px;
+  --sp-border-radius-full: 999px;
+}

@@ -1,0 +1,9 @@
+/* Custom tokens (dd-test-nextjs) - Auto-generated */
+
+:root {
+  /* Color */
+  --custom-color-brand-highlight: var(--sp-colors-violet-500);
+
+  /* Font_size */
+  --custom-font-size-hero: 48px;
+}
