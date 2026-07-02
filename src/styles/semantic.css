@@ -1,9 +1,0 @@
-/* Semantic tokens - Auto-generated */
-
-:root,
-[data-theme] {
-  --semantic-color-action-default: var(--theme-color-action-default);
-  --semantic-color-action-hover: var(--theme-color-action-hover);
-  --semantic-color-background-page: var(--sp-colors-teal-100);
-  --semantic-color-text-default: var(--sp-colors-teal-900);
-}

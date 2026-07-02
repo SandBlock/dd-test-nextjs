@@ -1,0 +1,41 @@
+/*
+ * DD Test Design Tokens — Primitives
+ * Auto-generated — do not edit manually.
+ */
+
+:root {
+  /* Violet */
+  --sp-colors-violet-100: #ede9fe;
+  --sp-colors-violet-300: #c4b5fd;
+  --sp-colors-violet-500: #8b5cf6;
+  --sp-colors-violet-700: #6d28d9;
+  --sp-colors-violet-900: #4c1d95;
+
+  /* Teal */
+  --sp-colors-teal-100: #ccfbf1;
+  --sp-colors-teal-300: #5eead4;
+  --sp-colors-teal-500: #14b8a6;
+  --sp-colors-teal-700: #0f766e;
+  --sp-colors-teal-900: #134e4a;
+
+  /* Amber */
+  --sp-colors-amber-100: #fef3c7;
+  --sp-colors-amber-300: #fcd34d;
+  --sp-colors-amber-500: #f59e0b;
+  --sp-colors-amber-700: #b45309;
+  --sp-colors-amber-900: #78350f;
+
+  /* Border radius */
+  --sp-radius-sm: 4px;
+  --sp-radius-md: 8px;
+  --sp-radius-lg: 12px;
+  --sp-radius-full: 999px;
+
+  /* Spacing */
+  --sp-space-1: 4px;
+  --sp-space-2: 8px;
+  --sp-space-3: 12px;
+  --sp-space-4: 16px;
+  --sp-space-6: 24px;
+  --sp-space-8: 32px;
+}

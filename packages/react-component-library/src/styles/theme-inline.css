@@ -1,0 +1,15 @@
+/*
+ * Tailwind v4 @theme registry — Auto-generated.
+ */
+
+@theme inline {
+  --color-semantic-action-default: var(--semantic-color-action-default);
+  --color-semantic-action-hover: var(--semantic-color-action-hover);
+  --color-semantic-action-foreground: var(--semantic-color-action-foreground);
+  --color-semantic-surface-default: var(--semantic-color-surface-default);
+  --color-semantic-text-heading: var(--semantic-color-text-heading);
+  --color-semantic-text-default: var(--semantic-color-text-default);
+  --color-semantic-text-muted: var(--semantic-color-text-muted);
+  --color-semantic-danger-default: var(--semantic-color-danger-default);
+  --color-semantic-danger-foreground: var(--semantic-color-danger-foreground);
+}

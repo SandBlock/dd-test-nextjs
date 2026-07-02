@@ -1,0 +1,9 @@
+/* Sunrise (sunrise) - Auto-generated */
+
+[data-theme='sunrise'] {
+  --theme-color-action-default: var(--sp-colors-amber-500);
+  --theme-color-action-hover: var(--sp-colors-amber-700);
+  --theme-color-action-foreground: #ffffff;
+  --theme-color-surface: var(--sp-colors-amber-100);
+  --theme-color-heading: var(--sp-colors-amber-900);
+}

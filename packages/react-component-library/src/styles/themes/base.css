@@ -1,0 +1,18 @@
+/* Base (base) - Auto-generated */
+
+/* Default fallback (Base) */
+:root {
+  --theme-color-action-default: var(--sp-colors-violet-500);
+  --theme-color-action-hover: var(--sp-colors-violet-700);
+  --theme-color-action-foreground: #ffffff;
+  --theme-color-surface: var(--sp-colors-violet-100);
+  --theme-color-heading: var(--sp-colors-violet-900);
+}
+
+[data-theme='base'] {
+  --theme-color-action-default: var(--sp-colors-violet-500);
+  --theme-color-action-hover: var(--sp-colors-violet-700);
+  --theme-color-action-foreground: #ffffff;
+  --theme-color-surface: var(--sp-colors-violet-100);
+  --theme-color-heading: var(--sp-colors-violet-900);
+}

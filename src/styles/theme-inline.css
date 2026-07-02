@@ -1,8 +1,0 @@
-/*
- * Tailwind v4 @theme registry — Auto-generated.
- */
-
-@theme inline {
-  --color-semantic-action-default: var(--semantic-color-action-default);
-  --color-semantic-background-page: var(--semantic-color-background-page);
-}

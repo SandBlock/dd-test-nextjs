@@ -1,0 +1,9 @@
+/* Custom tokens (react-component-library) - Auto-generated */
+
+:root {
+  /* Color */
+  --custom-color-highlight: var(--sp-colors-amber-500);
+
+  /* Font_size */
+  --custom-font-size-hero: 40px;
+}

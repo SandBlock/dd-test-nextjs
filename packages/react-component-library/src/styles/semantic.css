@@ -1,0 +1,14 @@
+/* Semantic tokens - Auto-generated */
+
+:root,
+[data-theme] {
+  --semantic-color-action-default: var(--theme-color-action-default);
+  --semantic-color-action-hover: var(--theme-color-action-hover);
+  --semantic-color-action-foreground: var(--theme-color-action-foreground);
+  --semantic-color-surface-default: var(--theme-color-surface);
+  --semantic-color-text-heading: var(--theme-color-heading);
+  --semantic-color-text-default: var(--sp-colors-violet-900);
+  --semantic-color-text-muted: var(--sp-colors-violet-700);
+  --semantic-color-danger-default: #dc2626;
+  --semantic-color-danger-foreground: #ffffff;
+}

@@ -1,0 +1,9 @@
+/* Ocean (ocean) - Auto-generated */
+
+[data-theme='ocean'] {
+  --theme-color-action-default: var(--sp-colors-teal-500);
+  --theme-color-action-hover: var(--sp-colors-teal-700);
+  --theme-color-action-foreground: #ffffff;
+  --theme-color-surface: var(--sp-colors-teal-100);
+  --theme-color-heading: var(--sp-colors-teal-900);
+}

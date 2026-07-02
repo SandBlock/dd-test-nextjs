@@ -1,0 +1,7 @@
+@import 'tailwindcss';
+@import './primitives.css';
+@import './theme-index.css';
+@import './semantic.css';
+@import './device.css';
+@import './custom.css';
+@import './theme-inline.css';
